@@ -1,0 +1,25 @@
+go version go1.15.6 windows/amd64
+314159017 375.0171ms
+
+nodejs
+v14.15.3
+314159017 484ms
+
+PHP 7.4.11 (cli) (built: Sep 29 2020 13:18:06) ( ZTS Visual C++ 2017 x64 )
+Copyright (c) The PHP Group
+Zend Engine v3.4.0, Copyright (c) Zend Technologies
+314159017 21.857286930084s
+
+PHP 8.0.0 (cli) (built: Nov 24 2020 22:02:57) ( ZTS Visual C++ 2019 x64 )
+Copyright (c) The PHP Group
+Zend Engine v4.0.0-dev, Copyright (c) Zend Technologies
+314159017 23.617833137512s
+
+ruby 2.7.2p137 (2020-10-01 revision 5445e04352) [x64-mingw32]
+314159017 61.7707707s
+
+ruby 3.0.0p0 (2020-12-25 revision 95aff21468) [x64-mingw32]
+314159017 75.9070558s
+
+Python 3.9.1
+314159017 504.920721s
